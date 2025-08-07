@@ -20,8 +20,7 @@ We present a lightweight, platform-agnostic obstacle detection framework that co
 We also introduce a **temporal smoothing mechanism** that improves detection consistency without compromising latency.
 
 ➡️ **Watch the demo:**  
-🎥 [Grid-Based Obstacle Detection with Temporal Smoothing (YOLOv8 Demo)](https://www.youtube.com/@omerkurkutlu6445/playlists)
-
+[![Grid-Based Obstacle Detection with Temporal Smoothing (YOLOv8 Demo)](https://img.youtube.com/vi/gTKu1QsmAWk/hqdefault.jpg)](https://youtu.be/gTKu1QsmAWk) 
 > This video demonstrates our lightweight obstacle detection framework based on grid-based spatial abstraction and temporal smoothing.  
 > The system uses a YOLOv8n model to detect obstacles and projects the bounding box outputs into a fixed 6×8 obstacle matrix. A smoothing mechanism is applied across frames to improve temporal consistency and reduce noise caused by occlusion, motion blur, or lighting variation.
 
